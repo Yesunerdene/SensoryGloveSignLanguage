@@ -9,6 +9,16 @@ This project explores the use of a glove equipped with flex sensors on each fing
   <source src="https://github.com/Yesunerdene/SensoryGloveSignLanguage/blob/main/recording.mp4" type="video/mp4">
 </video>
 
+<p align="center">
+  <img src="./viz1.PNG" width="49%" />
+  <img src="./viz2.PNG" width="49%" />
+</p
+
+[View the post](https://www.linkedin.com/feed/update/urn:li:ugcPost:7287434924108791808/)
+
+
+
+
 
 
 ## Documentation and Project Report
