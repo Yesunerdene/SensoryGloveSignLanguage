@@ -4,6 +4,10 @@ Welcome to our project of the course Multisensory Interactive Systems by Profess
 
 This project explores the use of a glove equipped with flex sensors on each finger to teach the American Sign Language (ASL) alphabet through an interactive memory game.
 
+## Demonstration
+<video width="700" autoplay loop playsinline controls>
+  <source src="./recording.mp4" type="video/mp4">
+</video>
 
 ## Documentation and Project Report
 
